@@ -1,6 +1,0 @@
-train: C:/Users/Ismael Marín/OneDrive/Desktop/src/datasets/cityscapes/images/nueva_train
-val: C:/Users/Ismael Marín/OneDrive/Desktop/src/datasets/cityscapes/images/nueva_val
-test: C:/Users/Ismael Marín/OneDrive/Desktop/src/datasets/cityscapes/images/nueva_test
-
-nc: 2  # Número de clases 
-names: ["car", "person"]  # Clases del dataset
